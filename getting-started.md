@@ -32,13 +32,13 @@
 
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/gettingstarted3.png)
 
-### 点击 AxShare 图标
+### 1 点击 AxShare 图标
 点击工具栏上的“ AxShare ”图标。
 
-### 创建一个账户
+### 2 创建一个账户
 选中“创建用户”标签，输入邮箱和密码并选中同意条款。
 
-### 点击发布
+### 3 点击发布
 点击“发布”按钮获得一个可用于分享的 URL 。
 
 ## 生成本地的 HTML 文件
