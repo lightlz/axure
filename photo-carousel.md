@@ -14,9 +14,9 @@
 
 ![image](images/photocarousel2.png)
 
-无论用户看的是哪张图片，我们都想在点击右箭头能够切换到下一张图片。为了达到图片切换的效果，我们选择动作 Set Panel State ，把 Rotating Photos 面板勾选上，从 Select the state”下拉列表中选中 Next 这个状态。
+无论用户看的是哪张图片，我们都想在点击右箭头时能够切换到下一张图片。为了达到图片切换的效果，我们选择动作 Set Panel State ，把 Rotating Photos 面板勾选上，从 Select the state 下拉列表中选中 Next 这个状态。
  
-接下来，你就可以添加动画进去了，选择 Slide Left 这个动画，然后对应到 Animate In 和  Animate Out ，接着把过渡时间都设置为 500 ms。
+接下来，你就可以添加动画进去了，选择 Slide Left 这个动画，然后对应到 Animate In 和  Animate Out ，接着把过渡时间都设置为 500 ms 。
 
 点击 OK 按钮关闭事例编辑器，事例就像截图中所展示那样，已经被添加到 OnClick 事件中去了。
 
