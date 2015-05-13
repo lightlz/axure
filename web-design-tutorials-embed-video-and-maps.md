@@ -26,13 +26,13 @@
 
 ### 复制 iframe 嵌入码
 ![](images/web-design-tutorials-embed-video-and-maps-5.png)
-您也许还需要点击多一些按钮（例如在上图中的 “Embed”）来获得代码。你所需要的代码应以“<iframe”开头，找到整段代码并复制下来。
+您也许还需要点击多一些按钮（例如在上图中的 “Embed”）来获得代码。你所需要的代码应以 `<iframe` 开头，找到整段代码并复制下来。
 
 ### 删除所有代码，只留下 URL
 ![](images/web-design-tutorials-embed-video-and-maps-6.png)
-回到 Axure 并且双击在设计区域中的内联框架小部件。点击“Link to an external URL or file”（链接到外部 URL 或文件）的单选框，然后粘贴之前复制下来的代码。
+回到 Axure 并且双击在设计区域中的内联框架小部件。点击 Link to an external URL or file（链接到外部 URL 或文件）的单选框，然后粘贴之前复制下来的代码。
 
-然后，删除所有的代码，除了 URL，URL 通常就在“src=”语句的右边。请确保您的 URL 带着 http:// 前缀，看上图了解正确情况下的样子。
+然后，删除所有的代码，除了 URL，URL 通常就在 `src=` 语句的右边。请确保您的 URL 带着 `http://` 前缀，看上图了解正确情况下的样子。
 
 ## 总结
-在你的内联框架里使用正确的 URL 是至关重要的！寻找 iframe 标记，截取 “src=” 右边的 URL，然后走起！
+在你的内联框架里使用正确的 URL 是至关重要的！寻找 iframe 标记，截取 `src=` 右边的 URL，然后走起！
