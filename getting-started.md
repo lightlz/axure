@@ -1,10 +1,10 @@
 # 准备开始
 
-添加和设计部件，创建基本链接，浏览器上预览，分享链接然后生成本地 HTML 。如果你在欢迎页面已经看过“准备开始”文档，请跳到 [页面操作](working-with-pages.md) 章节。
+添加和设计部件，创建基本链接，浏览器上预览，分享链接然后生成本地 HTML 。如果你在欢迎页面已经看过“准备开始”文档，请跳到[页面操作](working-with-pages.md)章节。
 
 ## 创建一个蓝色的按钮
 
-![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/gettingstarted1.png)
+![image](/images/gettingstarted1.png)
 
 ### 1 拖放一个按钮
 从部件窗口拖动一个按钮放到设计区域。
@@ -17,7 +17,7 @@
 
 ## 添加一个链接
 
-![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/gettingstarted2.png)
+![image](/images/gettingstarted2.png)
 
 ### 1 点击“创建链接...”
 选中按钮部件，点击“小部件交互和说明”窗口里“交互”标签下的“创建链接”选项。
@@ -30,7 +30,7 @@
 
 ## 发布到我们的云端托管服务器，AXURE 分享
 
-![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/gettingstarted3.png)
+![image](/images/gettingstarted3.png)
 
 ### 1 点击 AxShare 图标
 点击工具栏上的“ AxShare ”图标。
@@ -43,7 +43,7 @@
 
 ## 生成本地的 HTML 文件
 
-![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/gettingstarted4.png)
+![image](/images/gettingstarted4.png)
 
 ### 1 点击发布图标
 点击工具栏上的“发布”图标。
