@@ -8,17 +8,17 @@
 
 在这个示例中，我们会创建一个简单地数据集，允许你对其进行增加，删除，排序等操作。
 
-双击转发器小部件（泛绿的那块）来对其进行编辑。
+双击 repeater 小部件（泛绿的那块）来对其进行编辑。
 
 ### 第二步：添加一行数据
 ![](images/repeater-widget-tutorials-repeater-tutorial-2.png)
-在底部的中间面板中，选择 **Repeater Dataset**（Repeater 数据集）标签页。点击 Add Row (添加行)按钮并且输入内容 Jacket，然后选择右边的框并输入 99.99。
+在底部的中间面板中，选择 **Repeater Dataset**（Repeater 数据集）标签页。点击 Add Row（添加行）按钮并且输入内容 Jacket，然后选择右边的框并输入 99.99。
 
 ### 第三步：为矩形添加 Set Text action
 ![](images/repeater-widget-tutorials-repeater-tutorial-3.png)
-在同一个面板内，选择 **Repeater Item Interactions** (Repeater 项目互动)标签页。
+在同一个面板内，选择 **Repeater Item Interactions**（Repeater 项目互动）标签页。
 
-双击 Set text (设置文本)来打开 Case Editor，选择 Price，然后在下拉菜单中选择 Value，将值改为 **[[item.Prop2]]**。
+双击 Set text（设置文本）来打开 Case Editor，选择 Price，然后在下拉菜单中选择 Value，将值改为 **[[item.Prop2]]**。
 
 点击 OK。
 
