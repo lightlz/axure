@@ -1,1 +1,0 @@
-iphone-appswiping-slideshow1.png
