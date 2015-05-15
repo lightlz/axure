@@ -23,7 +23,7 @@
 
 通过双击 OnClick 添加第三个用例。这一次,添加条件为“如果文本小部件密码文本字段为空白”，把文本字段值留空。单击OK，并关闭条件生成器。  
 在编辑器中选择“显示”,然后单击“密码信息错误”复选框。  然后,单击OK，并关闭用例编辑器。
-###第五步:为用例3切换IF / ELSE IF
+###步骤5:为用例3切换IF / ELSE IF
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-required-fields-tutorial5.png)
 
 右击用例3并选择切换 IF / ELSE IF 。这将“如果其他”改为“如果”。现在用例3会发生,即使用例1或2执行。重新生成原型和测试它吧。把两个文本字段留空将会有两个面板显示错误信息。
@@ -32,12 +32,12 @@
 
 现在我们可以添加第四个用例为隐藏错误消息,如果一个值已经输入到密码文本字段。双击 OnClick 创建用例4 。选择“隐藏”并选择密码错误面板。  
 单击OK，并关闭用例编辑器。
-###第七步:添加最后的用例，其条件为“成功”
+###步骤7:添加最后的用例，其条件为“成功”
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-required-fields-tutorial7.png)
 
 最后一用例将包含条件和动作为成功登录。通过双击 OnClick 添加用例5 。单击添加条并和设置第一行条件条件读为“能见度小部件用户名信息值为错误”。然后,单击+图标以添加第二个行条件。设置这行都为“能见度小部件密码的值为错误”。    
 单击OK，并关闭条件生成器。
-###第八步:添加动作来链接到第1页
+###步骤8:添加动作来链接到第1页
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-required-fields-tutorial8.png)
 
 在用例编辑器的当前窗口单击打开链接,并选择第1页。  
@@ -46,7 +46,7 @@
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-required-fields-tutorial9.png)
 
 我们想把成功用例设为一个 IF 语句,所以它总是不管上面用例的执行情况便进行评估的。右击用例5并选择切换 IF / ELSE IF。
-###第十步:预览原型
+###步骤10:预览原型
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-required-fields-tutorial10.png)
 
 就是这样了，预览原型和测试它吧。
