@@ -18,21 +18,21 @@
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-variables-set-panel-next-page-tutorial4.png)
 
 接下来,在站点地图面板打开花页面。在这里,我们要查看什么变量值在前一页被设置,并设置相应的动态面板的状态。  在底部的页面交互选项卡窗格中,添加一个用例到 OnPageLoad 事件。
-###第五步:添加条件来检查变量值
+###步骤5:添加条件来检查变量值
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-variables-set-panel-next-page-tutorial5.png)
 
 添加一个条件在用例编辑器中。这将打开条件生成器对话框。  将其设置为检查变量 OnLoadVariable 的值为“价值”,然后输入“罂粟”到文本值。变量值是很重要的,所以一定要确保这下拉列表中的匹配项是前面的页面。  
 单击OK，并关闭条件生成器对话框。
-###第六步:设置花面板的状态
+###步骤6:设置花面板的状态
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-variables-set-panel-next-page-tutorial6.png)
 
 如果加载的变量值是“罂粟”,我们将在页面上的动态面板展示罂粟的图片。所以,我们添加行动“设置面板状态”,选择花的面板,并从下拉列表中选择“罂粟”状态。  
 单击OK，并关闭用例编辑器对话框。
-###第七步:添加 OnPageLoad 到每个选项
+###步骤7:添加 OnPageLoad 到每个选项
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-variables-set-panel-next-page-tutorial7.png)
 
 在 OnPageLoad 事件,添加超过3个的用例。在每种情况下,增加一个条件来检查变量加载的值为数字(1、2和3)并设置花的面板动态面板到适当的状态。最后在页面加载的情况下应该是上面的一个截图。
-###第八步:预览原型
+###步骤8:预览原型
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-variables-set-panel-next-page-tutorial8.png)
 
 预览您的原型和测试它。选择一个按钮将你带到后面的页面并显示相关状态。
