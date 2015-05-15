@@ -20,7 +20,7 @@
 现在的条件已经明确了,如果电子邮件和密码满足设定的条件，那么我们可以添加行动来执行它。
 点击“打开链接”并选择“我的账户”页面。  
 单击OK，关闭编辑器。
-###第五步:添加第二个用例“如果其他”
+###步骤5:添加第二个用例“如果其他”
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-conditional-logic-account-login-tutorial5.png)
 
 现在我们已经添加成功登录的情况,让我们添加第二种情况：如果登录不成功。双击 OnClick 事件添加第二种情况。请注意“如果这是真的”是自动添加到用例。默认条件下,如果条件在第一种情况下不满足就会执行第二种情况。因此在此示例中,我们不需要再添加第二种情况的条件。
