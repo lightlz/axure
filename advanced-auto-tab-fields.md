@@ -16,11 +16,11 @@
 
 在用例编辑器中选择“关注”,然后单击 MiddleDigits 的复选框。  
 单击 OK 并关闭编辑器。
-###第四步:重复步骤设置中间的文本字段
+###步骤4:重复步骤设置中间的文本字段
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-conditional-logic-autotab-fields-tutorial4.png)
 
 重复步骤1到3设置中间的文本字段。而且为中间的文本字段设置同样的条件,并且把行动设置为关注最后的文本字段。
-###第五步:为最后文本字段添加条件
+###步骤5:为最后文本字段添加条件
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-conditional-logic-autotab-fields-tutorial5.png)
 
 在最后的文本字段,添加一个 OnKeyUp 事件,这一次把条件设为“最后的小部件的长度值等于4”。  
