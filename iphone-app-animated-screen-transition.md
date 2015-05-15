@@ -18,24 +18,24 @@
 
 添加一个额外的状态面板通过在动态面板管理器右键单击面板并选择添加状态。
 标签状态1为"现在播放"和状态2为“暂停”。
-###四步:粘贴小部件到"暂停"状态
+###步骤4:粘贴小部件到"暂停"状态
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/iphone-app-screen-transition-tutorial4.png)
 
 选择站列表屏幕小部件,剪切和粘贴成站状态。将粘贴小部件移动到位置0,0。
-###第五步:添加 OnClick 到热点
+###步骤5:添加 OnClick 到热点
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/iphone-app-screen-transition-tutorial5.png)
 
 选择"现在播放"热点,并双击 OnClick 事件打开事件编辑器。
-###第六步:设置面板状态为“现在播放”
+###步骤6:设置面板状态为“现在播放”
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/iphone-app-screen-transition-tutorial6.png)
 
 为交互面板添加控制面板状态行动并勾选复选框。“现在播放”状态将被默认选中。选择并单击 OK关闭事件编辑器。
 单击 OK 关闭编辑器。
-###第七步:打开播放状态,添加到 OnClick
+###步骤7:打开播放状态,添加到 OnClick
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/iphone-app-screen-transition-tutorial7.png)
 
 导航到现在播放状态,选择后退按钮热点,并双击 OnClick 打开事件编辑器。
-###第八步:设置面板状态“暂停”
+###步骤8:设置面板状态“暂停”
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/iphone-app-screen-transition-tutorial8.png)
 
 选择“设置面板状态”和勾选交互面板复选框。从下拉目录中选择暂停状态,并为“动画进时”和“动画出时”选择“向右滑”然后单击 OK。 
