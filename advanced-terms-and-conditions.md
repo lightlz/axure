@@ -19,7 +19,7 @@
 
 既然我们已经明确的条件了,我们可以设置动作，当条件满足时来执行它了。点击“启用”并勾选“标志文本”复选框。  
 单击 OK，并关闭用例编辑器。
-###第五步:添加“其他”用例
+###步骤5:添加“其他”用例
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-conditional-logic-terms-and-conditions-tutorial5.png)
 
 当 AgreeCheckbox 被选中时,再次双击 OnClick ,添加第二个用例。这是“如果这是真的”用例。点击“禁用”并勾选 SignatureField 复选框。  
@@ -28,12 +28,12 @@
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-conditional-logic-terms-and-conditions-tutorial6.png)
 
 接下来,当用户输入文本字段时我们将启动继续按钮,。选择文本字段并添加一个用例到 OnKeyUp 事件。在用例编辑器中,单击“添加条件”打开条件生成器。
-###第七步:构建条件
+###步骤7:构建条件
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-conditional-logic-terms-and-conditions-tutorial7.png)
 
 条件将自动设置为使用文本字段上的文字,但我们想改为中间下拉菜单中的的“不平等”。条件为“文本小部件中的签名文本不能为空”。这意味着,如果有任何文本在文本字段中,这个动作在这个用例中会被执行。  
 单击OK，并返回用例编辑器。
-###第八步:添加动作到启用按钮
+###步骤8:添加动作到启用按钮
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-conditional-logic-terms-and-conditions-tutorial8.png)
 
 现在点击“启用”并勾选“继续按钮”复选框。完成交互翻译为“如果有签名文本,就启用继续按钮”。如果文本为空白您还可以添加第二个用例来禁用使用继续按钮。
