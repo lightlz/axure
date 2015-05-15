@@ -1,5 +1,4 @@
-#变量
-#将文本传递给下一个页面教程
+#变量：将文本传递给下一个页面教程
 
 ##把从页面输入的值传递到下一个页面
 ###步骤1:添加 OnClick 用例到提交按钮
@@ -23,17 +22,17 @@
 
 接下来,从站点地图面板中打开第一个页面。在这里,我们想要插入存储在 OnLoadVariable 的文本值进入欢迎页面上的文本。
 在底部的页面交互选项卡窗格中,添加一个用例到 OnPageLoad 事件。
-###第五步:在欢迎文本面板部件中设置文本
+###步骤5:在欢迎文本面板部件中设置文本
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-variables-pass-text-next-page-tutorial5.png)
 
 在用例编辑器中,添加一个“设置文本”的行动,并选择“欢迎文本面板”并单击“fx”按钮。
-###第六步:插入变量值到文本
+###步骤6:插入变量值到文本
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-variables-pass-text-next-page-tutorial6.png)
 
 在文本输入对话框中,将光标放到“欢迎”文本后面。点击“插入变量
 或函数……”,选择 OnLoadVariable。 这将插入[[ OnLoadVariable ]]到文本中。无论存储在 OnLoadVariable 上的值是什么都将取代这个文本。    
 单击OK，并关闭打开的对话框。
-###第七步:预览原型
+###步骤7:预览原型
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/advanced-variables-pass-text-next-page-tutorial7.png)
 
 预览您的原型和测试它。单击提交按钮设置变量的值,打开下一个页面,并插入值到欢迎文本。
