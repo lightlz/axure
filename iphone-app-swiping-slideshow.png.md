@@ -31,10 +31,10 @@
 
  
 现在让我们为 OnSwipeRight 添加交互。选择 SlideshowPanel 并双击 OnSwipeRight 打开编辑器。
-###第五步:设置 SlideshowPanel 之前的状态
+###步骤5:设置 SlideshowPanel 之前的状态
  ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/iphone-appswiping-slideshow5.png)
 选择设置面板 SlideshowPanel 行动并单击复选框状态。在 droplist 选择“前”面板状态并选择“幻灯片”动画的动画/。 
-###第六步:设置 NumberStatus 之前的状态
+###步骤6:设置 NumberStatus 之前的状态
 ![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/iphone-appswiping-slideshow6.png)
  现在,单击复选框 NumberStatus 面板。在 droplist 选择“前”面板状态但离开动画默认的“没有”。
 单击OK关闭编辑器,然后生成桌面或案例把它放在你的 iPhone 上.
