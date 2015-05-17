@@ -4,7 +4,7 @@
 
 ![image](images/customtooltip1.png)
 
-首先打开 AxureCustomTooltip.rp 然后打开 Custom Tooltip 页面。
+首先打开[AxureCustomTooltip.rp](/downloads/AxureCustomTooltip.rp) 然后打开 Custom Tooltip 页面。
  
 一般地，我们想让 Tooltip 隐藏起来，所以在 Style 选项板中选中 Hidden 选项。
 
@@ -24,6 +24,6 @@
 
 ![image](images/customtooltip2.png)
 
-在 More Options 的下拉列表中选中 Treat as Flyout 。
+在 More Options 的下拉列表中选中 Treat as Flyout。
  
 预览原型然后测试。

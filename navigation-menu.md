@@ -4,7 +4,7 @@
 
 ![image](images/navigationmenu1.png)
 
-首先打开 AxureNavigationMenu.rp 然后从 Masters 页面打开 Header – Menu 。
+首先打开[AxureNavigationMenu.rp](/downloads/AxureNavigationMenu.rp) 然后从 Masters 页面打开 Header – Menu 。
 
 按下 Shift 键，逐个选中菜单部件的所有导航项。全选后，对它们右键单击选中 Interaction Styles... 选项，会弹出一个 Set Interaction Styles 对话框。
 
@@ -12,7 +12,7 @@
 
 ![image](images/navigationmenu2.png)
 
-在 Selected Style 选项板中，我们将设定我们的 selected style 。选择字体颜色和填充颜色。设置填充颜色为深蓝，然后字体颜色为白色。当然你可以设置任何你喜欢的颜色。
+在 Selected Style 选项板中，我们将设定我们的 selected style。选择字体颜色和填充颜色。设置填充颜色为深蓝，然后字体颜色为白色。当然你可以设置任何你喜欢的颜色。
 
 点击 OK 关闭对话框。
 
@@ -38,7 +38,7 @@
 
 ![image](images/navigationmenu5.png)
 
-就像我们为 Home 页面所做的，通过相同的菜单为第一到三页面添加一个 OnPageLoad 事例到它们的 selected style 。例如，页面 1 的 OnPageLoad 事例，设置 Nav – Page 1 到它的 selected style ，然后为 Page 2 和 Page 3 使用相同的操作。
+就像我们为 Home 页面所做的，通过相同的菜单为第一到三页面添加一个 OnPageLoad 事例到它们的 selected style。例如，页面 1 的 OnPageLoad 事例，设置 Nav – Page 1 到它的 selected style ，然后为 Page 2 和 Page 3 使用相同的操作。
 
 ## 预览原型
 
