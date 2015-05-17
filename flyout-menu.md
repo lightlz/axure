@@ -4,7 +4,7 @@
 
 ![image](images/flyoutmenu1.png)
 
-首先打开 AxureFlyoutMenu.rp ，然后打开 Flyout Menu 页面。
+首先打开[AxureFlyoutMenu.rp](/downloads/AxureFlyoutMenu.rp)，然后打开 Flyout Menu 页面。
 
 选中内容和右键单击，然后选择 Convert to Dynamic Panel 。标记这个面板为 MenuFlyout 。
 
@@ -36,6 +36,6 @@
 
 ![image](images/flyoutmenu6.png)
 
-选中 FlyoutMenu 然后在下拉列表中选中 Treat as Flyout 。
+选中 FlyoutMenu 然后在下拉列表中选中 Treat as Flyout。
 
 预览你的原型然后去测试吧。
