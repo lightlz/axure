@@ -1,10 +1,10 @@
 # 折叠控制
 
-## 将内容装换成动态面板
+## 将内容转换成动态面板
 
 ![image](images/accordioncontrol1.png)
 
-首先打开 AxureAccordionControl.rp 然后打开 Accordion Control 面板。
+首先打开[AxureAccordionControl.rp](/downloads/AxureAccordionControl.rp) 然后打开 Accordion Control 面板。
  
 当每个章节包含了许多部件，我们就会让其可以在动态面板中可以自由的隐藏显示。选择中一个章节的内容右键单击 Convert to Dynamic Panel 。
 
@@ -12,11 +12,11 @@
 
 ![image](images/accordioncontrol2.png)
 
-标记动态面板为 Section1Content ， Section2Content 和 Section3Content 。
+标记动态面板为 Section1Content，Section2Content 和 Section3Content。
  
 一般地，每个章节的内容都应该被隐藏，所以对每个章节的内容右键单击隐藏。
 
-## 切换可见性和 Push/Pull Widgets 。
+## 切换可见性和 Push/Pull Widgets
 
 ![image](images/accordioncontrol3.png)
 
