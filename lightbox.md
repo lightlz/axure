@@ -2,9 +2,9 @@
 
 # 关于 LIGHTBOX
 
-在网站上用于显示大图或者播放视频的常用控件就是 Lightbox 了。一般地， lightbox 背景周围一般会变成灰色，有助于让人们的注意力集中在 lightbox 所显示的内容上。点击 lightbox 周边区域或者 close 按钮可以关闭 lightbox 。
+在网站上用于显示大图或者播放视频的常用控件就是 Lightbox 了。一般地，lightbox 背景周围一般会变成灰色，有助于让人们的注意力集中在 lightbox 所显示的内容上。点击 lightbox 周边区域或者 close 按钮可以关闭 lightbox。
  
-在 Axure RP 中，你能通过 treat as lightbox 设置背景变暗，再将其添加到 Show/Hide 动作上去。一个通过上诉方法实现的简单的图片视频 lightbox 示例可以下载 [AxureWebsite.zip](http://d3g1p8ush40lh4.cloudfront.net/Tutorials/v7/AxureWebsite.zip) 。
+在 Axure RP 中，你能通过 treat as lightbox 设置背景变暗，再将其添加到 Show/Hide 动作上去。一个通过上诉方法实现的简单的图片视频 lightbox 示例可以下载 [AxureWebsite.zip](/downloads/AxureWebsite.zip) 。
 
 # lightbox 示例
 
@@ -12,7 +12,7 @@
 
 ![image](images/lightbox1.png)
 
-Lightboxe 经常被用于展示大图，为了构建此类的 lightbox ，你可以通过一个图片创建一个动态面板，当图片的缩略图被点击时， lightbox 面板就会暗化背景，显示大图。使用动态面板显示一张图片也可以设置相似的状态达到同样新的效果。
+Lightboxes 经常被用于展示大图，为了构建此类的 lightbox，你可以通过一个图片创建一个动态面板，当图片的缩略图被点击时，lightbox 面板就会暗化背景，显示大图。使用动态面板显示一张图片也可以设置相似的状态达到同样新的效果。
 
 [查看例子](http://share.axure.com/1F4GO9/Image_Lightbox.html)
 
@@ -32,9 +32,9 @@ Lightboxe 经常被用于展示大图，为了构建此类的 lightbox ，你可
 
 ![image](images/lightbox3.png)
 
-首先打开 AxureLightboxTutorial.rp 。然后打开 Lightbox Tutorial 页面。
+首先打开[AxureLightboxTutorial.rp](/downloads/AxureLightboxTutorial.rp) ,然后打开 Lightbox Tutorial 页面。
 
-我们先选择图片和矩形，同过右键单击选中 Convert to Dynamic Panel选项，将他们转换成动态面板。 将其标记为 lightbox 。
+我们先选择图片和矩形，同过右键单击选中 Convert to Dynamic Panel选项，将他们转换成动态面板。将其标记为 lightbox。
 
 在一个交互动作中，我们能够隐藏和显示多个小部件。
 
@@ -48,9 +48,9 @@ Lightboxe 经常被用于展示大图，为了构建此类的 lightbox ，你可
 
 ![image](images/lightbox5.png)
 
-选中 lightbox ，在 Properties 选项板中单击 Pin to Browser 选项。
+选中 lightbox，在 Properties 选项板中单击 Pin to Browser 选项。
 
-在弹窗中，选上 pin to browser window ，然后选上 Center 和 Middle 。点击 OK 。
+在弹窗中，选上 pin to browser window，然后选上 Center 和 Middle。点击 OK。
  
 然后当 lightbox 显示时就会出现在屏幕中间了。
 
@@ -64,6 +64,6 @@ Lightboxe 经常被用于展示大图，为了构建此类的 lightbox ，你可
 
 ![image](images/lightbox7.png)
 
-在事例编辑器中，从 More Options 下拉列表选中 treat as lightbox 。
+在事例编辑器中，从 More Options 下拉列表选中 treat as lightbox。
 
 这个设置将在颜色选择器中指定显示小部件与彩色背景。
