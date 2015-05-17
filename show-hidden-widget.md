@@ -4,7 +4,7 @@
 
 ![image](images/showhiddenwidget1.png)
 
-首先打开 AxureShowHiddenWidget.rp 然后打开 Show Hidden Widget 页面。
+首先打开[AxureShowHiddenWidget.rp](/downloads/AxureShowHiddenWidget.rp) 然后打开 Show Hidden Widget 页面。
 
 在这个例子中，我们将创建一个错误信息来显示登陆失败。
 
@@ -38,7 +38,7 @@ Incorrect Login Information. Please try again.
 
 现在添加一个交互到 Log In 按钮上。第一个事例是，如果登陆成功打开 My Account 页面。
  
-在设计区域选中 Log 按钮。添加一个事例到 OnClick 事件，然后在事例编辑器中改变事例的名字为 Successful Login 。接着添加一个 Open Link 动作然后选中 My Account 页面。
+在设计区域选中 Log 按钮。添加一个事例到 OnClick 事件，然后在事例编辑器中改变事例的名字为 Successful Login。接着添加一个 Open Link 动作然后选中 My Account 页面。
  
 点击 OK 关闭事例编辑器。
 
@@ -48,7 +48,7 @@ Incorrect Login Information. Please try again.
 
 第二个事例，如果登陆失败，让其显示一个错误。
  
-添加第二个事例到 OnClick 事件，并起名为 Failed Login 。接着添加动作 Show ，选中 Error Message ，点 OK 。
+添加第二个事例到 OnClick 事件，并起名为 Failed Login 。接着添加动作 Show ，选中 Error Message，点 OK 。
 
 ## 预览原型
 
