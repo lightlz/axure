@@ -8,22 +8,22 @@
 ##拖拽滚动的 IPHONE 应用程序
 
 ###步骤1:文本的位置
-![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/iphone-appscrolling-content1.png)
+![image](images/iphone-appscrolling-content1.png)
 
-首先,打开  AxureiPhoneApp.zip  并打开 iPhoneApp-ScrollingContentTutorial.rp 文件。
+首先,打开[axureiphoneapp.zip](downloads/AxureiPhoneAppResources.zip) 并打开 iPhoneApp-ScrollingContentTutorial.rp 文件。
 拖动一个段落去中心应用程序布局和排列以下图像的小部件。复制和粘贴文本,然后文本将被底部控制。
 ###步骤2:将文本转变成动态面板
-![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/iphone-appscrolling-content2.png)
+![image](images/iphone-appscrolling-content2.png)
 
 通过右键单击它并选择转换>转换为动态面板，把文本转换成一个动态面板
 
 ###步骤3:面板的大小
-![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/iphone-appscrolling-content3.png)
+![image](images/iphone-appscrolling-content3.png)
 
 调整,以适应动态面板从底部上面的音乐控制。
 
 ###步骤4:添加需要的滚动条
-![image](https://raw.githubusercontent.com/jikexueyuanwiki/axure/master/images/iphone-appscrolling-content4.png)
+![image](images/iphone-appscrolling-content4.png)
 
 动态面板上单击右键并选择滚动条>显示垂直滚动条。
 通过生成桌面或测试 查看你的 iPhone 原型.
