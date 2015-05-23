@@ -1,7 +1,7 @@
 #从头构建一个电子商务网站
 
 ## 介绍
-本教程引导您一步一步来构建一个电子商务的原型，将会使用的许多Axure RP 原型的核心特性，包括 masters 和动态面板。我们将从头开始创建整个样本。     
+本教程引导您一步一步来构建一个电子商务网站的原型，将会使用的许多 Axure RP 原型的核心特性，包括 Masters 和动态面板。我们将从头开始创建整个样本。     
 
 ## 让我们开始吧
 
@@ -18,7 +18,7 @@
 
 在 Masters 面板中，单击添加按钮。然后缓慢双击新 masters 改名为 Header。
 
-![image](images/ecommerce2.png) 
+![image](images/ecommerce2.png) ，
  
 
 双击 Header Master 开始编辑。你可以通过查看设计区域顶部的选项卡来看看哪个 master 或者页面正在被编辑。
@@ -30,7 +30,7 @@
 
 ![image](images/ecommerce3.png) 
 
-拖出一个 image 部件到设计区域。双击导入你的 logo。从压缩包文件的images 文件夹中选择 logo.png 图片。
+拖出一个 image 部件到设计区域。双击导入你的 logo。从压缩包文件的 images 文件夹中选择 logo.png 图片。
 
 当被问及是否要按照图片大小加载，选择 Yes。这将使用实际尺寸的图片，而不是当前图像部件的大小。
 
@@ -52,7 +52,7 @@
 
 让我们添加一条水平线，来分离的标题下面的内容。
 
-将一个 Horizontal line 小部件拖到设计区域。可以通过拖动水平线的左边或者右边的小白点来调整长度。然后通过编辑模式和颜色工具栏的按钮，使水平线变成一条蓝色的虚线。
+将一个 Horizontal Line 小部件拖到设计区域。可以通过拖动水平线的左边或者右边的小白点来调整长度。然后通过编辑模式和颜色工具栏的按钮，使水平线变成一条蓝色的虚线。
 
 
 ### 添加 Header 到主页
@@ -71,7 +71,7 @@
 
 在主页上，将一个图像小部件拖到设计区域，并将它放在 header 下方。
 
-双击它，导入 Jeans1－1.png。添加第二个图片，导入 jeans2-1.png。
+双击它，导入 Jeans1-1.png。添加第二个图片，导入 jeans2-1.png。
 
 按住 shift 键并拖动图像的角部，拉伸图片到是 150px 宽，225px 高。
 
@@ -93,9 +93,9 @@
 
 ![image](images/ecommerce10.png)
 
-为了当鼠标在产品的图片上，Quick View 按钮才出现，我们将使用OnMouseEnter 事件。
+为了当鼠标在产品的图片上，Quick View 按钮才出现，我们将使用 OnMouseEnter 事件。
 
-点击产品图片。在小部件属性的交互选项卡窗格中添加一个案件OnMouseEnter 通过双击 OnMouseEnter(见上图)。这将会打开编辑器。
+点击产品图片。在小部件属性的交互选项卡窗格中添加一个案件 OnMouseEnter 通过双击 OnMouseEnter(见上图)。这将会打开编辑器。
 
 ### 添加 ShowQuickViewButton
 
@@ -113,7 +113,7 @@
 
 在所有内容的下面，添加一个 rectangle 部件到设计区域。然后，调整为大小为 600 x 450 的矩形。
 
-右键单击矩形并选择 Convert to Dynamic panel。这种动态面板标注ProductPopup。
+右键单击矩形并选择 Convert to Dynamic panel。这种动态面板标注 ProductPopup。
 
 
 ### 添加产品大图
@@ -129,7 +129,7 @@
 
 ![image](images/ecommerce14.png) 
 
-在图像上单击右键并选择 Convert to Dynamic Panel。标签这个面板为 ProductSlideshow。
+在图像上单击右键并选择 Convert to Dynamic Panel。标注这个面板为 ProductSlideshow。
 我们一共有3个 states，在小部件管理器中选择 state1 ，然后单击 Duolicate State 两次来创建3个 states。
 
 ### 插入 Jeans-2 和 Jeans-3 states
@@ -156,7 +156,7 @@
 
 ![image](images/ecommerce18.png) 
 
-从第一缩略图到第二和第三依次复制和粘贴的新 case。双击粘贴 case，让第二个缩略图的面板 state 为 State2，然后为 State3 做同样的事情。
+从第一缩略图到第二和第三依次复制和粘贴新的 case。双击粘贴 case，让第二个缩略图的面板 state 为 State2，然后为 State3 做同样的事情。
 
 预览您的原型。点击缩略图应该得到面板状态相关的牛仔图片。
 
@@ -247,13 +247,13 @@
 
 ![image](images/ecommerce28.png)
 
-当点击 Quick View的时候，这个面板将会被隐藏。右键单击面板，选择设置“隐藏”。
+当点击 Quick View 的时候，这个面板将会被隐藏。右键单击面板，选择设置“隐藏”。
 
 ### 浏览器定位
 
 ![image](images/ecommerce29.png) 
 
-选中隐藏的动态面板，在Properties选项卡里面选择 Pin to Browser。选择 Center 和 Middle，然后单击OK。
+选中隐藏的动态面板，在 Properties 选项卡里面选择 Pin to Browser。选择 Center 和 Middle，然后单击 OK。
 
 
 
