@@ -53,7 +53,7 @@
 
 首先，添加一个 image widget，然后导入解压文件里 images 目录下的 logo.png。把它放置在设计区域的顶部，并设置距离四周 10px。然后添加 4 个 300 x 50px 的 button shape widgets。
 
-删除最上方按钮的文字，然后把剩下的 3 个按钮文字分别设置成Directions，Menu，Coupons。
+删除最上方按钮的文字，然后把剩下的 3 个按钮文字分别设置成 Directions，Menu，Coupons。
 
 
 ### 创建有图标的按钮
