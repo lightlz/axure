@@ -1,6 +1,5 @@
 # 拖拽地图使用嵌套的动态面板和 OnDrag 
 
-
 ## 创建动态面板的 window 
 
 ![image](images/draggablemap1.png)
@@ -11,7 +10,7 @@
 
 将其标记为 MapWindow。
 
-## 调整MapWindow面板
+## 调整 MapWindow 面板
 
 ![image](images/draggablemap2.png)
 
@@ -34,7 +33,6 @@
 现在我们为地图创建一个窗口，让其可以被拖拽。为了做到这些，我们将地图装换为动态面板。再次打开 MapWindow 的 State1，右键单击图片然后选中 Convert to Dynamic Panel 选项创建另一个动态面板。
 
 编辑这个面板为 MapContent。你现在会注意到这个面板嵌套在 MapWindow 中。
-
 
 ## 添加 drag 动作
 

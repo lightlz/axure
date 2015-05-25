@@ -2,7 +2,6 @@
 
 添加，编辑和设计小部件。然后，把它们（部件）转换到一个 Master， 这样你就能集中管理和重用整个设计。
 
-
 ## 添加一个 Button shape 和设置 MOUSEOVER 风格
 
 ![image](images/widgetsmasters1.png)

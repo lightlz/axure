@@ -8,7 +8,6 @@
  
 选中 Rotating Photos 动态面板。在交互选项板中，添加一个事例到 OnLoad 事件中，这个会打开事例编辑器对话框。
 
-
 ## 添加等待动作
 
 ![images](images/autorotatingbanner2.png)

@@ -6,7 +6,7 @@
 
 首先打开[AxureAccordionControl.rp](/downloads/AxureAccordionControl.rp) 然后打开 Accordion Control 面板。
  
-当每个章节包含了许多部件，我们就会让其可以在动态面板中可以自由的隐藏显示。选择中一个章节的内容右键单击 Convert to Dynamic Panel 。
+当每个章节包含了许多部件，我们就会让其可以在动态面板中可以自由的隐藏显示。选择中一个章节的内容右键单击 Convert to Dynamic Panel。
 
 ## 标记和隐藏内容面板
 

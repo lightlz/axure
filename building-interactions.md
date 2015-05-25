@@ -1,4 +1,5 @@
 # 建立交互
+
 点击启用一个 Button Shape，使用编辑器获取文本框焦点。然后，当页面加载的时，使用页面的 OnPageLoad 事件把焦点放到文本框上。
 
 ## 添加一个 Button Shape 和两个文本框
@@ -31,9 +32,10 @@
 在“属性”选项卡，单击“禁用”。
 
 ### 3 命名为 TextField2
-继续选择文本框并命名为 Textfield2 。
+继续选择文本框并命名为 Textfield2。
 
 ## 单击按钮禁用第一个文本框
+
 ![images](images/buildinginteractions3-1.png)  
 
 ![images](images/buildinginteractions3-2.png)  
@@ -50,7 +52,7 @@
 ### 4 指定 TextField1
 在最右侧的列表上勾选 TextField1 复选框。
 
-### 还不能点击（“OK” 按钮）。
+### 还不能点击（OK 按钮）。
 我们在下一步将在同一案例中继续添加另一个动作。
 
 ## 启用第二个文本框
@@ -67,6 +69,7 @@
 我们还没完全完成这个 Case。下一步，我们将添加第三个动作。
 
 ## 第二个文本框设置 Focus
+
 ![images](images/buildinginteractions5.png)
 
 ### 1 添加设置聚焦动作

@@ -4,7 +4,7 @@
 
 ## 创建一个蓝色的按钮
 
-![image](/images/gettingstarted1.png)
+![image](images/gettingstarted1.png)
 
 ### 1 拖放一个按钮
 从部件窗口拖动一个按钮放到设计区域。
@@ -17,33 +17,33 @@
 
 ## 添加一个链接
 
-![image](/images/gettingstarted2.png)
+![image](images/gettingstarted2.png)
 
 ### 1 点击“创建链接...”
 选中按钮部件，点击“小部件交互和说明”窗口里“交互”标签下的“创建链接”选项。
 
 ### 2 选择页面 1 
-在链接内容窗口，选择页面 1 。
+在链接内容窗口，选择页面 1。
 
 ### 3 点击预览
 点击工具栏上的预览按钮并测试你设置的链接。
 
 ## 发布到我们的云端托管服务器，AXURE 分享
 
-![image](/images/gettingstarted3.png)
+![image](images/gettingstarted3.png)
 
 ### 1 点击 AxShare 图标
-点击工具栏上的“ AxShare ”图标。
+点击工具栏上的“AxShare”图标。
 
 ### 2 创建一个账户
 选中“创建用户”标签，输入邮箱和密码并选中同意条款。
 
 ### 3 点击发布
-点击“发布”按钮获得一个可用于分享的 URL 。
+点击“发布”按钮获得一个可用于分享的 URL。
 
 ## 生成本地的 HTML 文件
 
-![image](/images/gettingstarted4.png)
+![image](images/gettingstarted4.png)
 
 ### 1 点击发布图标
 点击工具栏上的“发布”图标。

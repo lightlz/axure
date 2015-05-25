@@ -4,7 +4,7 @@
 
 在网站上用于显示大图或者播放视频的常用控件就是 Lightbox 了。一般地，lightbox 背景周围一般会变成灰色，有助于让人们的注意力集中在 lightbox 所显示的内容上。点击 lightbox 周边区域或者 close 按钮可以关闭 lightbox。
  
-在 Axure RP 中，你能通过 treat as lightbox 设置背景变暗，再将其添加到 Show/Hide 动作上去。一个通过上诉方法实现的简单的图片视频 lightbox 示例可以下载 [AxureWebsite.zip](/downloads/AxureWebsite.zip) 。
+在 Axure RP 中，你能通过 treat as lightbox 设置背景变暗，再将其添加到 Show/Hide 动作上去。一个通过上诉方法实现的简单的图片视频 lightbox 示例可以下载 [AxureWebsite.zip](/downloads/AxureWebsite.zip)。
 
 # lightbox 示例
 

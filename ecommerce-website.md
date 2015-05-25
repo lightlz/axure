@@ -1,6 +1,7 @@
 #从头构建一个电子商务网站
 
 ## 介绍
+
 本教程引导您一步一步来构建一个电子商务网站的原型，将会使用的许多 Axure RP 原型的核心特性，包括 Masters 和动态面板。我们将从头开始创建整个样本。     
 
 ## 让我们开始吧
@@ -18,9 +19,8 @@
 
 在 Masters 面板中，单击添加按钮。然后缓慢双击新 masters 改名为 Header。
 
-![image](images/ecommerce2.png) ，
+![image](images/ecommerce2.png)
  
-
 双击 Header Master 开始编辑。你可以通过查看设计区域顶部的选项卡来看看哪个 master 或者页面正在被编辑。
 
 如果它指示的是 Header，说明你在正确的位置。
@@ -115,7 +115,6 @@
 
 右键单击矩形并选择 Convert to Dynamic panel。这种动态面板标注 ProductPopup。
 
-
 ### 添加产品大图
 
 ![image](images/ecommerce13.png)
@@ -123,7 +122,6 @@
 在这一步中，我们将会添加一个产品图片的幻灯片，当你点击缩略图后它会通过动画展示出来。
 
 首先，双击打开 ProductPopup 的 State1 。拖动图像小部件和双击导入 jeans1-1.png。将这张照片放在在左上角的地方。
-
 
 ### 将图像转换为动态面板
 
@@ -151,7 +149,6 @@
 选择最左边的缩略图，双击 OnClick 事件。在编辑器中，选择 Set Panel State 操作和选择 ProductSlideshow 面板。
 在 Select the State 下拉框中，选择 state1，然后选择消失的动画为渐入和渐出。单击OK。
 
-
 ### 复制/粘贴 case 到缩略图2 & 3
 
 ![image](images/ecommerce18.png) 
@@ -160,7 +157,6 @@
 
 预览您的原型。点击缩略图应该得到面板状态相关的牛仔图片。
 
-
 ## 加入购物车 
 
 ### 创建添加到购物车按钮
@@ -168,7 +164,6 @@
 ![image](images/ecommerce19.png)
 
 拖动一个 button shape 部件到弹出窗口的右下角。使用工具栏给它填充蓝色和白色字体。改变文本为 Add to cart。
-
 
 ### 创建购物车消息弹出面板
 
@@ -179,7 +174,6 @@
 拖动一个 rectangle 到弹出框的中间。让它变成浅灰色和黑色的字体。输入文本为“处理中…”。
 
 右键单击并选择[Convert to Dynamic Panel]。使用复选框的样式选项卡设置面板隐藏。
-
 
 ### 导入 Added to Cart 状态
 
@@ -195,8 +189,7 @@
 
 打开 AddedtoCart 状态，当我们确定 item 已经被添加后，将 item 的颜色改为蓝色。双击并更改文本 Successfully added to Cart。
 
-
-###步骤5:添加 Add to Cart 的交互
+### 添加 Add to Cart 的交互
 
 ![image](images/ecommerce23.png) 
 
@@ -213,7 +206,7 @@
 
 2:等待 1000ms。这设置第一个面板和第二个面板之间间隔时间。1000毫秒 = 1秒。
 
-###步骤7:改变MessagePopup面板状态
+### 改变MessagePopup面板状态
 
 ![image](images/ecommerce25.png)
 
@@ -255,9 +248,7 @@
 
 选中隐藏的动态面板，在 Properties 选项卡里面选择 Pin to Browser。选择 Center 和 Middle，然后单击 OK。
 
-
-
-###步骤4:添加 Quick View 显示面板
+### 添加 Quick View 显示面板
 
 ![image](images/ecommerce30.png) 
 

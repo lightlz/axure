@@ -4,7 +4,7 @@
 
 ## 调整 Sitemap 里的页面
 
-![image](/images/workingwithpages1.png)
+![image](images/workingwithpages1.png)
 
 ### 1 拖动“页面 3”
 单击并轻轻拖动“页面 3”到“页面 2”的右上方一点。
@@ -22,7 +22,7 @@
 
 ## 显示网格和创建辅助线
 
-![image](/images/workingwithpages2.png)
+![image](images/workingwithpages2.png)
 
 ### 1 打开最后一页
 在 Sitemap 上双击“最后一页”。  
@@ -43,7 +43,7 @@
 
 ## 添加一个单页的辅助线
 
-![image](/images/workingwithpages3.png)
+![image](images/workingwithpages3.png)
 
 ### 1 从标尺处拖拽一条页面辅助线
 单击上方标尺并拖动到设计区域的 Y:35 处创建一个页面辅助线。
@@ -58,7 +58,7 @@
 
 ## 使页面在中心
 
-![image](/images/workingwithpages4.png)
+![image](images/workingwithpages4.png)
 
 ### 1 选择页面样式选项卡
 
@@ -69,7 +69,7 @@
 
 ## 修改所有页面的背景颜色
 
-![image](/images/workingwithpages5.png)
+![image](images/workingwithpages5.png)
 
 ### 1 打开页面样式编辑器
 点击页面样式编辑器按钮进行格式修改所有页面。
@@ -81,4 +81,5 @@
 单击 OK 按钮去修改页面的背景颜色。
 
 ## 预览原型
+
 预览你的原型。Sitemap 的变化反映在原型的 Sitemap 上。注意你所有的页面上的背景颜色已经改变，因为我们在页面样式编辑器改变了默认风格。图像部件在“最后一页”。

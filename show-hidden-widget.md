@@ -16,7 +16,7 @@
 
 当矩形被选中时这么做：
 
-在部件的顶部输入新的名字 Error Message 。
+在部件的顶部输入新的名字 Error Message。
 
 ## 设计错误信息
 
@@ -48,7 +48,7 @@ Incorrect Login Information. Please try again.
 
 第二个事例，如果登陆失败，让其显示一个错误。
  
-添加第二个事例到 OnClick 事件，并起名为 Failed Login 。接着添加动作 Show ，选中 Error Message，点 OK 。
+添加第二个事例到 OnClick 事件，并起名为 Failed Login。接着添加动作 Show，选中 Error Message，点 OK。
 
 ## 预览原型
 
